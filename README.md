@@ -1,2 +1,3 @@
-# eddyfolio
-An interactive portfolio design for oldman eddy
+# solo portfolio
+
+An interactive portfolio design for Solomon Olaniran

@@ -95,7 +95,7 @@ const Projects = () => {
   return (
     <>
     <Head>
-        <title>Endurance Ogbeide | Project Page</title>
+        <title>Solomon Olaniran | Project Page</title>
         <meta name="description" content="View my cool projects" />
        
     </Head>

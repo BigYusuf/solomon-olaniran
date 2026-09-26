@@ -131,7 +131,7 @@ const DashboardPage = () => {
   return (
     <>
         <Head>
-            <title>Endurance Ogbeide | Dashboard Page</title>
+            <title>Solomon Olaniran | Dashboard Page</title>
             <meta name="description" content="Only Admin can reach here" />
         </Head>
         <TransitionEffect />

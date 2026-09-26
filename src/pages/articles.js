@@ -102,7 +102,7 @@ const Articles = () => {
   return (
     <>
         <Head>
-            <title>Endurance Ogbeide | Articles Page</title>
+            <title>Solomon Olaniran | Articles Page</title>
             <meta name="description" content="View my how I see the world" />
         
         </Head>

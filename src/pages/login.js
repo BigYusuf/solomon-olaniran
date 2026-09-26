@@ -38,7 +38,7 @@ useEffect(() => {
   return (
     <>
     <Head>
-        <title>Endurance Ogbeide | Login Page</title>
+        <title>Solomon Olaniran | Login Page</title>
         <meta name="description" content="Only the special can access" />
        
     </Head>

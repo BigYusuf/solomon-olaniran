@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Oldman In the Garden</title>
+        <title>Solomon Olaniran - Advantage</title>
         <meta
           name="description"
           content="This is dedicated to one stupid old man eddy"
@@ -54,7 +54,7 @@ export default function Home() {
             <div className="w-1/2 md:w-full">
               <Image
                 src={img || defImage}
-                alt="oldman"
+                alt="solomon"
                 priority
                 width={200}
                 height={200}
