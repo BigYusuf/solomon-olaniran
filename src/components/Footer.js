@@ -11,7 +11,7 @@ const Footer = () => {
                Build With 
                <span className='text-primary dark:text-primaryDark  text-2xl px-1'>&#9825;</span
                >by&nbsp; 
-               <Link target={'_blank'} rel="noreferrer" href={"https://yusuflateef.vercel.app"} className='underline underline-offset-2'>BigYusuf</Link>
+               <Link target={'_blank'} rel="noreferrer" href={"https://bigyusuff.vercel.app"} className='underline underline-offset-2'>BigYusuf</Link>
             </div>
             <Link href={"/"}>Say hello</Link>
         </Layout>
